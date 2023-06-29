@@ -1,0 +1,20 @@
+header{
+    background-color:deepskyblue
+}
+
+h2{
+    color:cadetblue;
+    background-color:lightblue
+    
+}
+h3{
+    color:deeppink;
+    background-color:lightgreen
+}
+div{
+    outline-style: double;
+    outline: hotpink;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
