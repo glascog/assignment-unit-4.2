@@ -11,10 +11,11 @@ h3{
     color:deeppink;
     background-color:lightgreen
 }
-div{
-    outline-style: double;
-    outline: hotpink;
-    margin: auto;
-    padding: 50px;
+div.info{
+    border-style: solid;
+    border-width: 5px 5px;
+    border-color: hotpink;
+    margin:auto;
+    padding: 5px;
     text-align: center;
 }
